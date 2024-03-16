@@ -217,4 +217,4 @@ A heartfelt thank you also goes out to my family, whose unwavering support was i
 
 "Unite for Our Future: Together, Let's Preserve Our Planet and Combat Climate Change."
 
-<img src="ReadMeImages/saveplanet.png" alt="save planet logo" width="1000" />
+<img src="ReadmeImages/saveplanet.png" alt="save planet logo" width="1000" />
