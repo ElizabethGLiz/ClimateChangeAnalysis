@@ -216,4 +216,5 @@ This project was created as a capstone for the Data Analytics pathway through th
 A heartfelt thank you also goes out to my family, whose unwavering support was instrumental throughout the development of this project..
 
 "Unite for Our Future: Together, Let's Preserve Our Planet and Combat Climate Change."
+
 <img src="ReadMeImages/saveplanet.png" alt="save planet logo" width="1000" />
