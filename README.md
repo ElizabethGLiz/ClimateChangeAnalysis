@@ -136,7 +136,7 @@ The following visualizations are provided:
 <img src="ReadmeImages/land_ocean_monthly_mean_temperature.png" alt="Monthly Mean Global Surface Temperature (Land+Ocean) from year 1991 to 2021" width="800" />
 
  ## I will be presenting a Tableau visualization to examine the relationship between temperature and population across various countries, utilizing historical data. This analysis aims to explore how temperature fluctuations may correlate with changes in population size over time in different regions.
-[Click on the link] (https://public.tableau.com/shared/WC4HSS9ZY?:display_count=n&:origin=viz_share_link)
+[Click on the link](https://public.tableau.com/shared/WC4HSS9ZY?:display_count=n&:origin=viz_share_link)
 
 
 ##  Summary
