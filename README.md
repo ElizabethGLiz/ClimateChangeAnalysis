@@ -36,13 +36,14 @@ The following are the questions which helped me to explore and analize the diffe
 The greenhouse gas emission data is sourced from the website [United Nations Framework Convention on Climate Change (UNFCCC)](https://di.unfccc.int/ghg_profile_annex1), which includes historical emission data for each sector such as energy, agriculture, industry, waste, and LULUCF (Land Use, Land-Use Change, and Forestry), along with their sub-sectors and different types of greenhouse gasses. It also provides greenhouse gas emissions data for all countries in AnnexI.
 
 ### The historical temperature data 
-The historical temperature data is sources from the website [Goddard Institute for Space Studies (GISS)](https://data.giss.nasa.gov/gistemp/), which includes  historical data for different hemispheres and three latitude bands.
+The historical temperature data is sourced from the website [Goddard Institute for Space Studies (GISS)](https://data.giss.nasa.gov/gistemp/), which includes  historical data for different hemispheres and three latitude bands.
 
 ## Data Processing and Data Transformation
 - The greenhouse gas emission data for each sector was cleaned and organized using the Python Pandas library to ensure consistency across different dataframes. 
 - The greenhouse gas emission data for different types of gasses was cleaned and organized using SQLite database and queries to ensure consistency across different dataframes.
 - The greenhouse gas emission data across all the countries in the ANNEXI was cleaned and organized using the Python Pandas library to ensure consistency across different dataframes.
-- To replicate the analysis and explore the project's findings on your device, follow the steps outlined in the 'Getting Started' section of this README to complete the necessary set-up. 
+- To replicate the analysis and explore the project's findings on your device, follow the steps outlined in the 
+[Getting Started](#Getting_Started) section of this README to complete the necessary set-up. 
 
 ## Replicating the Analysis
 There are two jupyter notebooks. Though each notebook stands alone in its analysis, running in order is recommended:
@@ -53,7 +54,7 @@ Additional folders and files available in the repo:
 - [Data folder](data)
 - [All images for the README.md](ReadmeImages)
 
-
+<a id="Getting_Started"></a>
 ## Getting Started
 ### To replicate this project:
 
@@ -101,9 +102,9 @@ The following visualizations are provided:
 
 <img src="ReadmeImages/correlation_ghg_emissions_waste.png" alt="Correlation of Greenhouse Gas Emissions by Waste Sector" width="800" />
 
-<img src="ReadmeImages/percentage_ghg_emissions_industrial_processes_product_use.png" alt="Percentage of Greenhouse Gas Emissions by Agriculture Sector" width="800" />
+<img src="ReadmeImages/percentage_ghg_emissions_industrial_processes_product_use.png" alt="Percentage of Greenhouse Gas Emissions by industrial processes and product Sector" width="800" />
 
-<img src="ReadmeImages/correlation_ghg_emissions_industrial_processes_product_use.png" alt="Correlation of Greenhouse Gas Emissions by Agriculture Sector" width="800" />
+<img src="ReadmeImages/correlation_ghg_emissions_industrial_processes_product_use.png" alt="Correlation of Greenhouse Gas Emissions by industrial processes and product Sector" width="800" />
 
 <img src="ReadmeImages/percentage_ghg_emissions_LULUCF.png" alt="Percentage of Greenhouse Gas Emissions By Gas with LULUCF" width="800" />
 
@@ -124,7 +125,7 @@ The following visualizations are provided:
 
  - By comparing the raw data points (markers) for each latitude band, I  analyzed the variability in temperatures within and between the Northern Extratropics, Southern Extratropics, and Tropics. Variations in temperature can be influenced by factors such as geography, ocean currents, atmospheric circulation patterns, and land use.
 
- - By comparing the temperature trend across land and ocean observed with other climate indicators, such as sea ice extent, greenhouse gas concentrations, or global temperature anomalies, I  gained a comprehensive understanding of climate dynamics and variability
+ - By comparing the temperature trend across land and ocean observed with other climate indicators, such as sea ice extent, greenhouse gas concentrations, or global temperature anomalies, I  gained a comprehensive understanding of climate dynamics and variability.
  
 
  The following visualizations are provided:
@@ -218,3 +219,4 @@ A heartfelt thank you also goes out to my family, whose unwavering support was i
 "Unite for Our Future: Together, Let's Preserve Our Planet and Combat Climate Change."
 
 <img src="ReadmeImages/saveplanet.png" alt="save planet logo" width="1000" />
+
