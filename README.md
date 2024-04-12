@@ -15,7 +15,7 @@
 ## What are the objectives and scopes of the project?
 The objectives of this Climate Change Data Analysis project are to analyze temperature and weather patterns over time and identify trends in greenhouse gas emissions. The scope of the project includes predicting future climate scenarios based on historical data.
 
-[Click on the link to know more about the Climate Change.](climate_change_FAQ.md)
+[Click on the link to know more about the Climate Change.](docs/climate_change_FAQ.md)
 
 ## Key Questions
 The following are the questions which helped me to explore and analize the different aspects of climate change:
@@ -46,12 +46,13 @@ The historical temperature data is sourced from the website [Goddard Institute f
 [Getting Started](#Getting_Started) section of this README to complete the necessary set-up. 
 
 ## Replicating the Analysis
-There are two jupyter notebooks. Though each notebook stands alone in its analysis, running in order is recommended:
+There are two jupyter notebooks in the folder[notebooks](notebooks). Though each notebook stands alone in its analysis, running in order is recommended:
 - [Geenhouse Gas Emission](green_house_gas_analysis.ipynb)
 - [Historical Temperature Analysis](historical_temperature_analysis.ipynb)
 
 Additional folders and files available in the repo:
 - [Data folder](data)
+- [Documents folder](docs)
 - [All images for the README.md](ReadmeImages)
 
 <a id="Getting_Started"></a>
@@ -212,7 +213,7 @@ The analysis of greenhouse gas emissions across various sectors and gases, along
 ## Acknowledgments
 I wish to extend my heartfelt gratitude to the individuals whose contributions made this modest project achievable.
 
-This project was created as a capstone for the Data Analytics pathway through the [Code:Louisville](https://codelouisville.org/) program. I am deeply grateful to my mentors for their invaluable guidance and instruction, which enabled me to apply my skills effectively in this project.
+This project was created as a capstone for the Data Analytics pathway through the [Code:You](https://code-you.org/) program. I am deeply grateful to my mentors for their invaluable guidance and instruction, which enabled me to apply my skills effectively in this project.
 
 A heartfelt thank you also goes out to my family, whose unwavering support was instrumental throughout the development of this project..
 
