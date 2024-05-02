@@ -27,7 +27,7 @@ The following are the questions which helped me to explore and analize the diffe
 #### 5. How can visualizations enhance our understanding of greenhouse gas emissions and  climate change?
 #### 6. How do different hemispheres and latitude bands influence climate change?
 #### 7. What does historical data reveal about the impact of different hemispheres and latitude bands over a period of time?
-#### 8. How did teperature statistics evolve throughout the years, and were there any discernible trends?
+#### 8. How did temperature statistics evolve throughout the years, and were there any discernible trends?
 #### 9. How can visualizations enhance our understanding of temperature and  climate change?
 
 ## Data Sources
